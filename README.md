@@ -6,9 +6,6 @@ All fonts required to for everything here are in the [fonts directory](fonts)
 
 ![velovision-black-bg](velovision/velovision-black-bg.png)
 
-+ typeface: [Comfortaa](https://fonts.google.com/specimen/Comfortaa?preview.text=velovision&preview.text_type=custom&category=Sans+Serif,Display&preview.size=58)
-+ weight: Semi-Bold
-
 # [double-helipad](double-helipad)
 
 ![double-helipad-white-fg](double-helipad/double-helipad-white-fg.png)
