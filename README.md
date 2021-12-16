@@ -6,8 +6,6 @@ Find all fonts in [fonts directory](fonts)
 + typeface: **DIN Condensed Bold**
 + modification: 120% width
 
-![](readme-assets/ps-main-font-120.png)
-
 **Light**
 
 **Dark**
