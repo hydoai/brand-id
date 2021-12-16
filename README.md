@@ -1,6 +1,6 @@
 # Identity Guidelines
 
-Find all fonts in [fonts directory](fonts)
+All fonts required to for everything here are in the [fonts directory](fonts)
 
 ## Main Logos
 + typeface: **DIN Condensed Bold**
