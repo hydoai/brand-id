@@ -23,9 +23,9 @@ Find all fonts in [fonts directory](fonts)
 
 ## [double-helipad](double-helipad)
 
-![double-helipad-white-fg](double-helipad-white-fg.png)
+![double-helipad-white-fg](double-helipad/double-helipad-white-fg.png)
 
 ## [HYDO](hydo)
 
-![hydo-white-fg](hydo-white-fg.png)
+![hydo-white-fg](hydo/hydo-white-fg.png)
 
