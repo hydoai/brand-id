@@ -21,4 +21,11 @@ Find all fonts in [fonts directory](fonts)
 + typeface: [Comfortaa](https://fonts.google.com/specimen/Comfortaa?preview.text=velovision&preview.text_type=custom&category=Sans+Serif,Display&preview.size=58)
 + weight: Semi-Bold
 
+## [double-helipad](double-helipad)
+
+![double-helipad-white-fg](double-helipad-white-fg.png)
+
+## [HYDO](hydo)
+
+![hydo-white-fg](hydo-white-fg.png)
 
