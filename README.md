@@ -19,6 +19,6 @@ Find all fonts in [fonts directory](fonts)
 ![velovision-black-bg](velovision/velovision-black-bg.png)
 
 + typeface: [Comfortaa](https://fonts.google.com/specimen/Comfortaa?preview.text=velovision&preview.text_type=custom&category=Sans+Serif,Display&preview.size=58)
-+ weight: Medium 500
++ weight: Semi-Bold
 
 
