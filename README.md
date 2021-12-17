@@ -1,6 +1,6 @@
 # Identity Guidelines
 
-Fonts are not made public because of licensing.
+Fonts files are not made public because of licensing.
 
 # [velovision](velovision)
 
