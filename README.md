@@ -1,6 +1,6 @@
 # Identity Guidelines
 
-All fonts required to for everything here are in the [fonts directory](fonts)
+Fonts are not made public because of licensing.
 
 # [velovision](velovision)
 
