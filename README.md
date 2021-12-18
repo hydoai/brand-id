@@ -1,5 +1,7 @@
 # Identity Guidelines
 
+PNG and Photoshop files for HYDO Brand.
+
 Fonts files are not made public because of licensing.
 
 # [velovision](velovision)
