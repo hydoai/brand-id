@@ -10,3 +10,5 @@ Info
 ![](velovision-transparent.png)
 
 ![](velovision-banner.png)
+
+![](velovision-banner-pictures.png)
