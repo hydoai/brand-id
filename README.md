@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository is no longer maintained. Velovision-related logos have been moved to [velovision/visual-identity](https://github.com/velovision/visual-identity/)
+
 # Identity Guidelines
 
 PNG and Photoshop files for HYDO Brand.
